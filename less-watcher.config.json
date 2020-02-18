@@ -1,0 +1,8 @@
+  
+{
+    "watchFolder": "src/",   
+    "outputFolder": "src/",   
+    "sourceMap": false,
+    "runOnce": false,
+    "enableJs": true
+}

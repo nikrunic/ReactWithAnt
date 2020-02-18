@@ -1,0 +1,69 @@
+.App {
+  overflow-x: hidden;
+  overflow-y: auto !important;
+  height: 100vh;
+  width: 100vw;
+}
+h1 {
+  font-size: 2.143em;
+  font-weight: 700;
+}
+h2 {
+  font-size: 1.714em;
+  font-weight: 400;
+}
+h3 {
+  font-size: 1.429em;
+  font-weight: 700;
+}
+h4 {
+  font-size: 1.286em;
+  font-weight: 700;
+}
+h5 {
+  font-size: 1.143em;
+  font-weight: 700;
+}
+h6 {
+  font-size: 1em;
+  font-weight: 600;
+}
+.ant-layout {
+  background: #fff;
+}
+.ant-empty {
+  width: 100%;
+  height: 100%;
+}
+.ant-message .anticon {
+  top: -3px;
+}
+thead > tr > th .anticon-filter > svg,
+thead > tr > th .ant-table-filter-icon > svg {
+  top: 40%;
+  margin-top: 0;
+}
+.ant-table table thead > tr > th {
+  font-weight: 600;
+  letter-spacing: 0.4px;
+}
+.ant-table thead > tr > th .anticon-filter,
+.ant-table thead > tr > th .ant-table-filter-icon {
+  font-size: 1em;
+  color: #382fff;
+  right: 5px;
+}
+.ant-table-wrapper body table tbody tr td {
+  word-break: break-all;
+}
+.ant-pagination-prev .ant-pagination-item-link .anticon,
+.ant-pagination-next .ant-pagination-item-link .anticon {
+  vertical-align: 2px;
+}
+.va-0 {
+  vertical-align: 0;
+}
+.ant-btn-link,
+a {
+  color: #2376ff;
+}
